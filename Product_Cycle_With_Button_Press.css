@@ -17,5 +17,21 @@ body {
     border-radius: 10px;
     align-items: center;
     margin: 0 auto;
-    background-color: ghostwhite;
+    color: red;
+}
+#dText2 {
+    font-size: large;
+    border: solid black;
+    width: 300px;
+    border-radius: 10px;
+    align-items: center;
+    margin: 0 auto;
+}
+#dButton {
+    background-color: aquamarine;
+    padding: 5px;
+    border-radius: 5px;
+}
+#drButton {
+    background-color: sandybrown;
 }
