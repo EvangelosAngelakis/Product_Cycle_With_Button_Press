@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+#dImage {
+    width: 350px;
+    height: 450px;
+    border: solid black;
+    border-radius: 10px;
+}
